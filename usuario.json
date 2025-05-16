@@ -1,0 +1,14 @@
+{
+    "udgvirtual@correo.udg.mx": {
+        "password": "123456",
+        "nombre": "Usuario Predeterminado"
+    },
+    "prueba@udg.com": {
+        "password": "123",
+        "nombre": "prueba"
+    },
+    "facturas@2bits.com.mx": {
+        "password": "1",
+        "nombre": "GARCIA OROZCO DONOVAN GAEL"
+    }
+}
